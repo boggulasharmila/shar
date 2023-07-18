@@ -1,0 +1,24 @@
+#todolist{
+   margin-top: 0%;
+   text-align: center;
+background-color: aliceblue;
+  
+}
+#todolist h1{
+  color: aqua;
+  font-style: italic;
+}
+#text{
+  padding:10px 30px;
+}
+#addtodo{
+  background-color: rgb(99, 199, 53);
+   color: beige;
+   width: 100px;
+   padding: 10px;
+   margin-left: 10px;
+}
+#addtodo:hover{
+  background-color: rgb(136, 206, 253);
+  cursor: pointer;
+}
